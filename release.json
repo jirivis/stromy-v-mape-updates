@@ -1,0 +1,25 @@
+{
+  "packages": [
+    {
+      "from": "2.25.0",
+      "version": "2.25.1",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.3/update-2.25.1.zip",
+      "sha256": "97df942c5d8ae140bda18cdf76fb1f0f0390a5bf49e0c2bbfa79afc90cf9a7d8",
+      "notes": "Veřejná mapa: podklady, značky shodné s hlavní mapou, barvení, společný filtr a tabulka. Hromadný výběr veřejných údajů a užší sloupec Veřejné. Bez SQL změn."
+    },
+    {
+      "from": "2.25.1",
+      "version": "2.25.2",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.3/update-2.25.2.zip",
+      "sha256": "c0fadada508914d538d020254038df72a1582c1bcea61297f88cedeec8a05170",
+      "notes": "Nastavení zdroje aktualizací v administraci, výběr kompatibilního vydání, poloha zařízení ve veřejné mapě a návraty na dashboard. Bez SQL změn."
+    },
+    {
+      "from": "2.25.2",
+      "version": "2.25.3",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.3/update-2.25.3.zip",
+      "sha256": "0b0c78d2bb52ac7d2d3abe8558eeaf9d8d7b740c0025d75d0dfc401aeec2688d",
+      "notes": "Boční ovládání polohy a Zobrazit vše ve veřejné mapě; návraty na dashboard uvnitř panelů nahoře a dole. Aktualizace z 2.25.2, bez změn databáze."
+    }
+  ]
+}
