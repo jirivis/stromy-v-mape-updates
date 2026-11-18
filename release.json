@@ -27,6 +27,20 @@
       "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.4/update-2.25.4.zip",
       "sha256": "213db17eb08f08aee8c34e1bdde525b025ee46d3ebb5c068dcc3af71eeee38f3",
       "notes": "Oprava oprávnění projektů a ochrana adresáře uživatelů a zákazníků. Přidání uživatele přesným e-mailem. Přechod z 2.25.3, bez změn databáze."
+    },
+    {
+      "from": "2.25.4",
+      "version": "2.25.5",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.6/update-2.25.5.zip",
+      "sha256": "7b3c22ad4647f1625f64ae102e902b5f0b17e7bec98515940eee767f068f4b0a",
+      "notes": "Opravy ukládání stromů, fotografií karet, navigace editoru a taxonomie. Sjednocení veřejných filtrů, clusterování, popisků a vzhledu ploch. Bez změn databáze."
+    },
+    {
+      "from": "2.25.5",
+      "version": "2.25.6",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.6/update-2.25.6.zip",
+      "sha256": "90f7ed09962f9b5c195b82ca40c54c925e68bf7b0988dffd8ee14c8e38c455ea",
+      "notes": "Hláška Aktivní filtry uprostřed obrazovky, blednutí po 1,5 sekundě. Samostatné záložky Stromy a Plochy ve veřejné tabulce. Bez změn databáze."
     }
   ]
 }
