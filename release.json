@@ -41,6 +41,13 @@
       "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.6/update-2.25.6.zip",
       "sha256": "90f7ed09962f9b5c195b82ca40c54c925e68bf7b0988dffd8ee14c8e38c455ea",
       "notes": "Hláška Aktivní filtry uprostřed obrazovky, blednutí po 1,5 sekundě. Samostatné záložky Stromy a Plochy ve veřejné tabulce. Bez změn databáze."
+    },
+    {
+      "from": "2.25.6",
+      "version": "2.25.7",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.7/update-2.25.7.zip",
+      "sha256": "0d5f40a4435ce1eb7cb63155200a1967450dcd7b6b9cedaea4506cb2e514bdbb",
+      "notes": "Omezení velikosti značek, nastavení návratu po uložení stromů a ploch, autoři taxonů, okolní objekty na mapkách, průhledné plochy, nápovědy AOPK a uspořádání fotografií. Bez změn databáze."
     }
   ]
 }
