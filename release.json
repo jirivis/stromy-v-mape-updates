@@ -48,6 +48,13 @@
       "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.7/update-2.25.7.zip",
       "sha256": "0d5f40a4435ce1eb7cb63155200a1967450dcd7b6b9cedaea4506cb2e514bdbb",
       "notes": "Omezení velikosti značek, nastavení návratu po uložení stromů a ploch, autoři taxonů, okolní objekty na mapkách, průhledné plochy, nápovědy AOPK a uspořádání fotografií. Bez změn databáze."
+    },
+    {
+      "from": "2.25.7",
+      "version": "2.25.8",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.8/update-2.25.8.zip",
+      "sha256": "a48029149d23be82517becc392550d6df9d1f11cdaa4e0bf62df53d1afc40d99",
+      "notes": "Karty z formulářů, stav a skutečná data odumření/odstranění oddělená od dne označení. Vyžaduje SQL přípravu: po záloze stáhněte SQL z aktualizátoru, spusťte ve správné databázi v phpMyAdminu a zvolte Zkontrolovat databázi. Starší údaje se nedoplňují."
     }
   ]
 }
