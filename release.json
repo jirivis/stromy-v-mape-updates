@@ -55,6 +55,13 @@
       "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.8/update-2.25.8.zip",
       "sha256": "a48029149d23be82517becc392550d6df9d1f11cdaa4e0bf62df53d1afc40d99",
       "notes": "Karty z formulářů, stav a skutečná data odumření/odstranění oddělená od dne označení. Vyžaduje SQL přípravu: po záloze stáhněte SQL z aktualizátoru, spusťte ve správné databázi v phpMyAdminu a zvolte Zkontrolovat databázi. Starší údaje se nedoplňují."
+    },
+    {
+      "from": "2.25.8",
+      "version": "2.25.9",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.9/update-2.25.9.zip",
+      "sha256": "ae55475d144aee3d269255ccf42e64d139f42a74354ea3f84c80b98c91a2a85e",
+      "notes": "Rozestupy a zarovnání tlačítek, opětovné zobrazení nových sdílených odkazů, pařezy ve veřejné mapě podle zveřejněných polí a okolní objekty při ruční opravě polohy. Bez SQL změn."
     }
   ]
 }
