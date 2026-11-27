@@ -62,6 +62,13 @@
       "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.9/update-2.25.9.zip",
       "sha256": "ae55475d144aee3d269255ccf42e64d139f42a74354ea3f84c80b98c91a2a85e",
       "notes": "Rozestupy a zarovnání tlačítek, opětovné zobrazení nových sdílených odkazů, pařezy ve veřejné mapě podle zveřejněných polí a okolní objekty při ruční opravě polohy. Bez SQL změn."
+    },
+    {
+      "from": "2.25.9",
+      "version": "2.25.10",
+      "url": "https://github.com/jirivis/stromy-v-mape-updates/releases/download/v2.25.10/update-2.25.10.zip",
+      "sha256": "9ba08408958a64779d5f15671713b74a87bdd2113624a81e31957bec2931d643",
+      "notes": "Oprava editace kliknutím a výběru překrývajících se prvků, tlačítka nepřekrývají popup. Odstraněné plochy červeně s horním upozorněním; veřejná mapa respektuje zveřejnění stavu. Bez SQL změn."
     }
   ]
 }
